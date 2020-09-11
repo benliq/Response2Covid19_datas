@@ -1,4 +1,4 @@
-date;iso;geoid;country;Rigidity_Public_Health;domestic_lockdown;curfew;schools_closures;restaurants_closures;mask_mandates;travel_restrictions;domestic_travel_restrictions;sporting_events;bans_mass_gatherings;election_postponed;public_testing;enhanced_surveillance;emergency_state;Economic_Interventions;wage_support;cash_transfers;credit_schemes;tax_cuts;tax_delays;export_support;rate_cuts
+aaadate;iso;geoid;country;Rigidity_Public_Health;domestic_lockdown;curfew;schools_closures;restaurants_closures;mask_mandates;travel_restrictions;domestic_travel_restrictions;sporting_events;bans_mass_gatherings;election_postponed;public_testing;enhanced_surveillance;emergency_state;Economic_Interventions;wage_support;cash_transfers;credit_schemes;tax_cuts;tax_delays;export_support;rate_cuts
 01/01/2020;ABW;AW;Aruba;;;;0;;0;;;;;;;;;0;0;0;0;0;0;0;0
 15/01/2020;ABW;AW;Aruba;;;;0;;0;;;;;;;;;0;0;0;0;0;0;0;0
 01/02/2020;ABW;AW;Aruba;;;;0;;0;;;;;;;;;0;0;0;0;0;0;0;0
